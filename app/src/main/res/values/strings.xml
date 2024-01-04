@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ViloriaMark</string>
+    <string name="add_vaccination">Add Vaccination</string>
+    <string name="child_name">Child Name</string>
+    <string name="vaccination_date">Vaccination Date</string>
+    <string name="child_names">Child Name</string>
+    <string name="vaccination_dates">Vaccination Date</string>
+    <string name="vaccination_dated">Vaccination Date</string>
+    <string name="list_of_all_vaccination_tracker">List of all Vaccination Tracker:</string>
+</resources>
